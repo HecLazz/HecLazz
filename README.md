@@ -5,9 +5,8 @@
 
 - ☕ Atualmente estou estudando JAVA
 - 👨🏻‍🎓 Estou cursando **ESoft** na universidade **UniCesumar**.
-- 🔥 My Instagram - https://www.instagram.com/heclazz_/
 - 💻 LinkeId - https://www.linkedin.com/in/hector-lazzari-067772237/
-
+- Aluno DIO. = Começo de uma nova era
 
 <!--
 **HecLazz/HecLazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
