@@ -1,23 +1,13 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/HecLazz/5910eb95ace2e48e6cef1064de6c2ecb/raw/d5b28507d35af54eddbed7d52e40695d215c94ba/HecLazz.svg"/>
 
-<h1 align="left">Hi honey, Me chamo Hector Lazzari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HecLazz&color=blue" alt="Profile views" /> </p>
+### Hi honey, me chamo Hector Lazzari 🤙🏻
 
-- ☕ Atualmente estou estudando JAVA
-- 👨🏻‍🎓 Estou cursando **ESoft** na universidade **UniCesumar**.
-- 💻 LinkeId - https://www.linkedin.com/in/hector-lazzari-067772237/
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-lazzari-067772237/)
 
-<!--
-**HecLazz/HecLazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HecLazz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HecLazz&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/HecLazz/github-readme-stats#gh-dark-mode-only)
+[![HecLazz GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HecLazz&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/HecLazz/github-readme-stats#gh-light-mode-only)
 
-Here are some ideas to get you started:
+### Tecnologias que estou estudando
+<div style="display: inline_block"><br/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
