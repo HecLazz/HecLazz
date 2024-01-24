@@ -9,5 +9,11 @@
 ### Tecnologias que estou estudando
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</div><br/>
 
-</div>
+Desde muito novo sempre gostei de tecnologia, e então decidi iniciar meus estudos.<br/>
+Estou cursando Engenharia de Software na UniCesumar e também por fora, iniciei na plataforma Digital Innovation One, nossa querida DIO.<br/>
+Link do meu perfil na DIO: https://www.dio.me/users/hectorlazzari20
+<br/>
+
+### Espero que gostem do perfil ❤️
