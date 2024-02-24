@@ -12,8 +12,11 @@
 </div><br/>
 
 Desde muito novo sempre gostei de tecnologia, e então decidi iniciar meus estudos.<br/>
-Estou cursando Engenharia de Software na UniCesumar e também por fora, iniciei na plataforma Digital Innovation One, nossa querida DIO.<br/>
+Estou cursando Engenharia de Software na UniCesumar e também por fora, iniciei na plataforma Digital Innovation One, nossa querida DIO.
+<br/>
 Link do meu perfil na DIO: https://www.dio.me/users/hectorlazzari20
 <br/>
+## 📚 Formação
+Cursando Bacharelado em ESoft [UniCesumar](https://www.unicesumar.edu.br/)
 
 ### Espero que gostem do perfil ❤️
