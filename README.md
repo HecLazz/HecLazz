@@ -12,17 +12,9 @@ Bem-vindo ao meu repositório de análise de dados! Aqui, você encontrará uma 
 
 Aqui estão alguns dos projetos que você pode encontrar neste repositório:
 
-1. **[Projeto 1: Análise de dados do mercado negro global]((https://github.com/HecLazz/Global-Black-Money-Transactions-Dataset-))**
-   - Descrição: Análise de dados de vendas usando Excel e Python para identificar tendências e padrões.
-   - Tecnologias: Excel, Python (Pandas, Matplotlib)
-
-2. **[Projeto 2: Visualização de Dados](link_para_o_projeto_2)**
-   - Descrição: Criação de visualizações interativas para apresentar resultados de análises de dados.
-   - Tecnologias: Python (Matplotlib, Seaborn)
-
-3. **[Projeto 3: Automação de Relatórios](link_para_o_projeto_3)**
-   - Descrição: Desenvolvimento de um script em Python para automatizar a geração de relatórios a partir de dados brutos.
-   - Tecnologias: Python, Excel
+1. **[Projeto 1: Análise de dados do mercado negro global](https://github.com/HecLazz/Global-Black-Money-Transactions-Dataset-)**
+   - Descrição: Análise de dados de transações usando puramente Excel para identificar tipos de transações, cripto, compra de imóveis e etc. Identificando possíveis lavagem de dinheiro.
+   - Tecnologias: Excel.
 
 ## Contato
 
