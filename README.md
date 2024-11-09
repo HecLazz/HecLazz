@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório de análise de dados! Aqui, você encontrará uma 
 
 Aqui estão alguns dos projetos que você pode encontrar neste repositório:
 
-1. **[Projeto 1: Análise de Vendas](link_para_o_projeto_1)**
+1. **[Projeto 1: Análise de dados do mercado negro global]((https://github.com/HecLazz/Global-Black-Money-Transactions-Dataset-))**
    - Descrição: Análise de dados de vendas usando Excel e Python para identificar tendências e padrões.
    - Tecnologias: Excel, Python (Pandas, Matplotlib)
 
