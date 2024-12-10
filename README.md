@@ -25,3 +25,12 @@ Para mais informações ou para discutir oportunidades de colaboração, você p
 
 Obrigado por visitar meu repositório!
 
+### Tecnologias
+<div>
+   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
+   <img align="center" height="30" widht="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17">
+</div>
+
+
