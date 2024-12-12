@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de análise de dados! Aqui, você encontrará uma 
 ## Habilidades 👨🏻‍💻
 
 - **Excel**: Experiência em manipulação de dados, fórmulas avançadas, tabelas dinâmicas e visualizações.
-- **Python**: Familiaridade com bibliotecas como Pandas, NumPy e Matplotlib para análise e visualização de dados.
+- **SQL**: Consulta, manipulação e modelagem de dados em bancos relacionais.
 - **Análise de Dados**: Capacidade de interpretar dados, extrair insights e comunicar resultados de forma clara e eficaz.
 
 ## Projetos ✍🏻
