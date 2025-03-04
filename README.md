@@ -1,36 +1,21 @@
-# Bem-vindo ao meu Github 👋🏻
+# 👋 Olá! Eu sou Hector Lazzari
 
-Bem-vindo ao meu repositório de análise de dados! Aqui, você encontrará uma coleção de projetos e scripts que demonstram minhas habilidades em Excel, Python e técnicas de análise de dados. Estou sempre em busca de aprender mais e aprimorar minhas habilidades, então sinta-se à vontade para explorar e contribuir!
+## 🔐 Analista de Segurança & Suporte Técnico | Data Scientist
 
-## Habilidades 👨🏻‍💻
+Sou apaixonado por tecnologia e cibersegurança, atualmente estou estudando sobre redes e sistemas operacionais, começando a ter familiaridade com Script em PowerShell, entendendo mais sobre protocolos de Redes, Portas, Modelo OSI e TCP/IP. Busco sempre aprender e aprimorar minhas habilidades para contribuir com soluções eficientes no mundo da TI.
 
-- **Excel**: Experiência em manipulação de dados, fórmulas avançadas, tabelas dinâmicas e visualizações.
-- **SQL**: Consulta, manipulação e modelagem de dados em bancos relacionais.
-- **Análise de Dados**: Capacidade de interpretar dados, extrair insights e comunicar resultados de forma clara e eficaz.
+---
 
-## Projetos ✍🏻
+## 🚀 Habilidades & Tecnologias
 
-Aqui estão alguns dos projetos que você pode encontrar neste repositório:
+- 🖥️ **Windows:** Automação de tarefas, troubleshooting, scripts para otimização
+- 🐍 **Linguagens:** Python, SQL, PowerShell
 
-1. **[Projeto 1: Análise de dados do mercado negro global](https://github.com/HecLazz/Global-Black-Money-Transactions-Dataset-)**
-   - Descrição: Análise de dados de transações usando puramente Excel para identificar tipos de transações, cripto, compra de imóveis e etc. Identificando possíveis lavagem de dinheiro.
-   - Tecnologias: Excel.
+---
 
-## Contato
+## 📫 Contato
 
-Para mais informações ou para discutir oportunidades de colaboração, você pode me encontrar em:
+- 📧 **E-mail:** hectorlazzari20@gmail.com
+- 🔗 **LinkedIn:** [Hector Lazzari](https://www.linkedin.com/in/hector-lazzari-067772237/)
 
-- Email: hectorlazzari20@gmail.com
-- LinkedIn: [Hector Lazzari](https://www.linkedin.com/in/hector-lazzari-067772237/)
-
-Obrigado por visitar meu repositório!
-
-### Tecnologias
-<div>
-   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-   <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-   <img align="center" height="30" widht="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17">
-</div>
-
-
+Sempre aberto para colaborações e novos desafios! 🚀
