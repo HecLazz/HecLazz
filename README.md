@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e cibersegurança, atualmente estou estudando sobr
 
 ## 🚀 Habilidades & Tecnologias
 
-- 🖥️ **Windows:** Automação de tarefas, troubleshooting, scripts para otimização
+- 🖥️ **Windows:** Automação de tarefas, scripts para otimização
 - 🐍 **Linguagens:** Python, SQL, PowerShell
 
 ---
