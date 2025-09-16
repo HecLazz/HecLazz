@@ -30,6 +30,8 @@
   </a>
 </div>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckEcho.png" alt="Your Image Badge" />
+
 ###
 
 <div align="left">
