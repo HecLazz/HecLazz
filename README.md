@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🔐 Analista de Segurança & Suporte Técnico</h3>
+<h3 align="left">🔐 CyberSecurity</h3>
 
 ###
 
